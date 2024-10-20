@@ -6,17 +6,16 @@ This repository contains the source code for my personal portfolio website, buil
 This website serves as a platform to highlight my work experience, projects, and technical skills.
 
 Features:
-
-==> Responsive Design: The website is designed to adapt to different screen sizes and devices.
-==> Clean and Modern Layout: A visually appealing and easy-to-navigate interface.
-==> Project Showcase: A section to showcase my completed projects with descriptions and links.
-==> Skills Summary: A list of my technical skills and proficiency levels.
-==> Contact Information: A way for visitors to get in touch with me.
+1. Responsive Design: The website is designed to adapt to different screen sizes and devices.
+2. Clean and Modern Layout: A visually appealing and easy-to-navigate interface.
+3. Project Showcase: A section to showcase my completed projects with descriptions and links.
+4. Skills Summary: A list of my technical skills and proficiency levels.
+5. Contact Information: A way for visitors to get in touch with me.
 
 Technologies Used:
--- HTML: The structure and content of the website.
--- CSS: Styling and layout of the website.
--- JavaScript: Interactive elements and dynamic content.   
+1. HTML: The structure and content of the website.
+2. CSS: Styling and layout of the website.
+3. JavaScript: Interactive elements and dynamic content.   
 
 Getting Started:
 
