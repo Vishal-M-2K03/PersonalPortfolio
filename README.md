@@ -3,7 +3,7 @@
 A showcase of my skills and projects.
 
 This repository contains the source code for my personal portfolio website, built using HTML, CSS, and JavaScript. 
-This website serves as a platform to highlight my work experience, projects, and technical skills.
+This website serves as a platform to highlight my projects, and technical skills.
 
 **Features**
 1. Responsive Design: The website is designed to adapt to different screen sizes and devices.
