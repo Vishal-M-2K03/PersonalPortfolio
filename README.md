@@ -1,4 +1,4 @@
-##Personal Portfolio
+## Personal Porfolio
 
 A showcase of my skills and projects.
 
